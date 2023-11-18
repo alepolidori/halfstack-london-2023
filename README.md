@@ -1,6 +1,6 @@
 # HalfStack London 2023
 
-HalfStack Conference in London (Shoreditch): November 15th 2023
+[HalfStack Conference](https://halfstackconf.com/) in London (Shoreditch): November 15th 2023
 
 ## Let’s create Your Video Call App: demystifying JS WebRTC APIs
 
